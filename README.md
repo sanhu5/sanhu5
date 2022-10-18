@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![zsh35's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsh35&show_icons=true&count_private=true&icon_color=008080&text_color=00AEFF&bg_color=27282200
+[![zsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsh&show_icons=true&count_private=true&icon_color=008080&text_color=00AEFF&bg_color=27282200
 )](https://github.com/chaizia)
 
 <!--
